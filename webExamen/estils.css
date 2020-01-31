@@ -1,0 +1,20 @@
+body{
+    background: #0B4958;
+	font-family: Verdana;
+}
+
+.fila_avatar{
+	margin-top: 20px;
+	height: 300px;
+}
+a {
+	color: white;
+}
+
+.avatar{
+	margin-left: 20px;
+	margin-top: 25px;
+	height: 250px;
+	text-align: left;
+	vertical-align: middle;
+}
